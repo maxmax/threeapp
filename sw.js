@@ -1,4 +1,4 @@
-importScripts("https://maxmax.github.io/threeapp/assets/precache-manifest.0569c08ad42d8a74eddfe50e3c9570c6.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("precache-manifest.c453ac971fe1fdeae2eb4b8618f1a1a9.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 let notificationUrl = '';
 
