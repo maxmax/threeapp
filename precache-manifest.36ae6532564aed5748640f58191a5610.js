@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d41ce5492b092c645758fa1124db8d0",
+    "revision": "bf663f98edfa5bec4198093d95cb4d69",
     "url": "https://maxmax.github.io/threeapp/index.html"
   },
   {
@@ -66,7 +66,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://maxmax.github.io/threeapp/js/main.js"
   },
   {
-    "url": "https://maxmax.github.io/threeapp/js/runtime~main.e8ffafa7082c8eb1a55b.js"
+    "revision": "cac7fa0510f2ca8616b5",
+    "url": "https://maxmax.github.io/threeapp/js/runtime~main.js"
   },
   {
     "revision": "e5972d111ced173051ea",
