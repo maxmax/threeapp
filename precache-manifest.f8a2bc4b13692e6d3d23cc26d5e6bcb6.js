@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf663f98edfa5bec4198093d95cb4d69",
+    "revision": "d73106f0153a566e1aac7ae7f6dc03a6",
     "url": "https://maxmax.github.io/threeapp/index.html"
   },
   {
-    "revision": "2cde33705855bb334680",
+    "revision": "403f19673f0ec7b00065",
     "url": "https://maxmax.github.io/threeapp/js/css/main.css"
   },
   {
@@ -53,16 +53,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://maxmax.github.io/threeapp/js/images/a92d7344a9ef739b0d5112e0093f7c71.jpg"
   },
   {
-    "url": "https://maxmax.github.io/threeapp/js/images/d580ded48f9c8b2c2ab1378b9375541f.jpg"
-  },
-  {
     "url": "https://maxmax.github.io/threeapp/js/images/db25dd5d99869be90f43ee658e5773f0.png"
   },
   {
     "url": "https://maxmax.github.io/threeapp/js/images/dcbef8668fac0418a56b98802952bff4.jpg"
   },
   {
-    "revision": "2cde33705855bb334680",
+    "url": "https://maxmax.github.io/threeapp/js/images/e61641eeb4c54fec36bc71b8af9455b1.jpg"
+  },
+  {
+    "revision": "403f19673f0ec7b00065",
     "url": "https://maxmax.github.io/threeapp/js/main.js"
   },
   {
