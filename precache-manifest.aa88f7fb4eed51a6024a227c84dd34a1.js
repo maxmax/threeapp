@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://maxmax.github.io/threeapp/index.html"
   },
   {
-    "revision": "fe1140aed3ac7ba4dd84",
+    "revision": "70f2ee088a79fee9753d",
     "url": "https://maxmax.github.io/threeapp/js/css/main.css"
   },
   {
@@ -65,7 +65,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://maxmax.github.io/threeapp/js/images/e1657e6efce97c8afb7cb6264ffabf9c.png"
   },
   {
-    "revision": "fe1140aed3ac7ba4dd84",
+    "revision": "70f2ee088a79fee9753d",
     "url": "https://maxmax.github.io/threeapp/js/main.js"
   },
   {
