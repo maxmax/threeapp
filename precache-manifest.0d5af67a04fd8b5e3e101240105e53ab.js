@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://maxmax.github.io/threeapp/index.html"
   },
   {
-    "revision": "26de7d33845f7040783d",
+    "revision": "dabf6b7b62fdf791e4c2",
     "url": "https://maxmax.github.io/threeapp/js/css/main.css"
   },
   {
@@ -65,7 +65,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://maxmax.github.io/threeapp/js/images/e1657e6efce97c8afb7cb6264ffabf9c.png"
   },
   {
-    "revision": "26de7d33845f7040783d",
+    "revision": "dabf6b7b62fdf791e4c2",
     "url": "https://maxmax.github.io/threeapp/js/main.js"
   },
   {
@@ -73,7 +73,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://maxmax.github.io/threeapp/js/runtime~main.js"
   },
   {
-    "revision": "e409eb7852b2327dd462",
+    "revision": "4980af5c2567d28797d1",
     "url": "https://maxmax.github.io/threeapp/js/vendors.js"
   },
   {
